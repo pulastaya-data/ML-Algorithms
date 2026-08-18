@@ -1,5 +1,6 @@
 .virtual_documents/
 anaconda_projects/
+private_notebooks/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
